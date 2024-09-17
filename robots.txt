@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://aneurnmo.github.io/sitemap.html.gz
+Sitemap: https://aneurnmo.github.io/app/sitemap.html.gz
+Sitemap: https://aneurnmo.github.io/assets/sitemap.html.gz
+Sitemap: https://aneurnmo.github.io/css/sitemap.html.gz
+Sitemap: https://aneurnmo.github.io/includes/sitemap.html.gz
+Sitemap: https://aneurnmo.github.io/item/sitemap.html.gz
+Sitemap: https://aneurnmo.github.io/src/sitemap.html.gz
